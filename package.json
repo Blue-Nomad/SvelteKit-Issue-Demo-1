@@ -1,0 +1,17 @@
+{
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-cloudflare": "4",
+		"@sveltejs/kit": "2",
+		"@sveltejs/vite-plugin-svelte": "4",
+		"svelte": "5",
+		"svelte-check": "4",
+		"tslib": "2",
+		"typescript": "5",
+		"vite": "5"
+	}
+}
